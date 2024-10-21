@@ -3,9 +3,7 @@
 
 ## Introduction
 
-Bienvenue dans le projet de création d'un **bot Discord innovant** pour la communauté Simplon Hauts-de-France (HDF) ! 🎉
-
-Notre objectif ? Faciliter la communication, le partage de ressources et l'engagement au sein de cette formidable communauté d'apprenants, de formateurs et d'anciens élèves. Grâce à ce bot, nous souhaitons créer un espace dynamique, interactif et convivial où chacun peut contribuer et s'épanouir.
+Notre objectif ? Faciliter la communication, le partage de ressources et l'engagement au sein de cette communauté d'apprenants, de formateurs et d'anciens élèves. Grâce à ce bot, nous souhaitons créer un espace dynamique, interactif et convivial où chacun peut contribuer et s'épanouir.
 
 Découvrons ensemble les **exigences** qui feront de ce bot un outil indispensable pour tous ! 🚀
 
