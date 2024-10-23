@@ -11,8 +11,13 @@
 - **RG07**: Les membres autorisé à partager, ne peuvent modifier que leurs ressources.
 - **RG09**: Les membres autorisé à partager, ne peuvent supprimer que leurs ressources.
 - RG56: Les super administrateur pourront allumer le bot.
+- RG56: Les super administrateur pourront éteindre le bot.
 
-
+### Gestion des historique d’évènements .
+- Tout signalement d'une ressources sera enregistrées dans l’historique d’événements.
+- Toutes modifications d'une ressources sera enregistrées dans l’historique d’événements.
+- Toutes suppressions d'une ressources sera enregistrées dans l’historique d’événements.
+- Les utilisateurs ayant like ou dislike d'une ressource signalé seront enregistrées dans l’historique d’événements.
 
 ### Propriétés d'une ressources :
 - **RG01**: Une ressource doit obligatoirement contenir un titre.
@@ -43,6 +48,7 @@
 - RG10: Tous les **membres** autorisés peuvent **liker** une ressource.  
 - RG11 : Tous les **membres** autorisés peuvent **disliker** une ressource. 
 - RG12 : Tous les **membres** autorisés peuvent **signaler** une ressource. 
+- RG12: Un signalement envoie u
 - RG13 : Tous les **membres** autorisés peuvent rendre une ressource **obsolète**.
 - RG14 : Tous les **membres** autorisés peuvent **commenter** une ressource.  
 
@@ -81,158 +87,7 @@
 
 ### Modération :
 - Blacklist
-- Whitelist
+- Chaque nouveau post est comparé avec une liste noir.
+- 
+- ~~Whitelist~~
 
-
-### Forums de Développement et Tags Correspondants
-
-1. **Forum HTML/CSS**
-
-- `#ResponsiveDesign`, `#Frameworks`, `#SASS`, `#Bootstrap`.
-
-2. **Forum PHP**
-
-- `#Laravel`, `#Symfony`, `#Wordpress`, `#Composer`.
-
-3. **Forum COBOL**
-
-- `#Mainframe`, `#JCL`, `#DB2`, `#Modernisation`.
-
-4. **Forum JS/TS** (JavaScript et TypeScript)
-
-- `#NodeJS`, `#React`, `#Angular`, `#VueJS`, `#Frameworks`, `#Librairies`, `#ES6`.
-
-5. **Forum C#**
-
-- `#.NET`, `#ASP.NET`, `#Unity`, `#Xamarin`, `#WPF`, `#EntityFramework`.
-
-6. **Forum Java**
-
-- `#Spring`, `#Hibernate`, `#J2EE`, `#Maven`, `#Android`.
-
-7. **Forum Python**
-
-- `#Django`, `#Flask`, `#DataScience`, `#MachineLearning`, `#Scripting`.
-
-8. **Forum BDD**
-
-- `#MySQL`, `#PostgreSQL`, `#MongoDB`, `#SQLServer`, `#Oracle`.
-
-9. **Forum GIT/Github**
-
-- `#Branching`, `#Merging`, `#CI/CD`, `#Repos`.
-
-10. **Forum IDE**
-
-- `#VisualStudio`, `#Eclipse`, `#PyCharm`, `#IntelliJ`, `#VSCode`.
-
-11. **Forum Container**
-
-- `#Docker`, `#Kubernetes`, `#DockerSwarm`.
-
-12. **Forum ORM**
-
-- `#EntityFramework`, `#Hibernate`, `#Dapper`.
-
-13. **Forum Systèmes d'Exploitation**
-
-- `#Windows`, `#Linux`, `#MacOS`.
-
-14. **Forum Terminal**
-
-- `#Bash`, `#PowerShell`, `#Zsh`, `#Cmd`.
-
-15- **Forum Conception**
-
-- `#UML`, `#DesignPatterns`, `#ArchitectureLogicielle`.
-
-16- **Forum Titre-Pro**
-
-- Utilisez des tags pour des certificats spécifiques ou des qualifications professionnelles.
-
-17- **Forum Agilité**
-
-- `#Scrum`, `#Kanban`, `#Lean`, `#XP`.
-
-18- **Forum Algorithmie**
-
-- `#Complexité`, `#StructuresDeDonnées`, `#AlgorithmesAvancés`.
-
-19- **Forum POO (Programmation Orientée Objet)**
-
-- `#Classes`, `#Héritage`, `#Encapsulation`, `#Polymorphisme`.
-
-20- **Forum Testing-TDD (Test-Driven Development)**
-
-- `#UnitTests`, `#IntegrationTests`, `#Mocking`, `#BDD`.
-
-21- **Forum Architecture**
-
-- `#Microservices`, `#Monolithique`, `#Serveurless`, `#Patterns`.
-
-22- **Forum Sécurité**
-
-- `#Authentification`, `#Cryptography`, `#Vulnerabilities`, `#BestPractices`.
-
-23- **Forum CI-CD (Continuous Integration/Continuous Deployment)**
-
-- `#Jenkins`, `#TravisCI`, `#GithubActions`, `#GitLabCI`.
-
-24 - **Forum Database**
-
-- `#SQL`, `#NoSQL`, `#Optimization`, `#DataModeling`.
-
-25 - **Forum Déploiement**
-
-- `#Docker`, `#Kubernetes`, `#Heroku`, `#AWS`.
-
-  
-  
-
-### Forums d'Infrastructure et Tags Correspondants
-
-1. **Forum Hardware**
-
-- `#CPU`, `#GPU`, `#RAM`, `#Storage`.
-
-2. **Forum Virtualisation**
-
-- `#VMWare`, `#HyperV`, `#KVM`.
-
-3. **Forum Stockage**
-
-- `#SAN`, `#NAS`, `#CloudStorage`.
-
-4. **Forum Pare-Feu**
-
-- `#Configuration`, `#Sécurité`, `#Règles`.
-
-5. **Forum Supervision**
-
-- `#MonitoringTools`, `#Performance`, `#Alerting`.
-
-6. **Forum Réseaux**
-
-- `#Routing`, `#Switching`, `#TCP/IP`, `#VPN`.
-
-7. **Forum Windows Desktop**
-
-- `#Installation`, `#Configuration`, `#Troubleshooting`.
-
-8. **Forum Windows Server**
-
-- `#AD`, `#IIS`, `#PowerShell`.
-
-9. **Forum Android/IOS**
-
-- `#AppDevelopment`, `#SystemUpdates`, `#Security`.
-
-10. **Forum OS Intermédiaires**
-
-- `#FreeBSD`, `#Debian`, `#RedHat`.
-
-11. **Forum Pentest**
-
-- `#EthicalHacking`, `#Tools`, `#Vulnerabilities`.
-
-12. **Forum Containers**
