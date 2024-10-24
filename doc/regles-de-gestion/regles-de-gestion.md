@@ -49,9 +49,7 @@
 - RG10: Tous les **membres** autorisés peuvent **liker** une ressource.  
 - RG11 : Tous les **membres** autorisés peuvent **disliker** une ressource. 
 - RG12 : Tous les **membres** autorisés peuvent **signaler** une ressource. 
-- RG12: Un signalement envoie u
 - RG13 : Tous les **membres** autorisés peuvent rendre une ressource **obsolète**.
-- RG14 : Tous les **membres** autorisés peuvent **commenter** une ressource.  
 
 ### Tri des ressources :
 - Chaque lien partager sera analyser avec les liens déja présent.
@@ -67,27 +65,31 @@
 
 
 
-### Récompenses :
+## Systéme de récompenses :
 
-- RG15: Un systèmes de classement évaluera la participation des utilisateurs.
-- Chaque membres pourra faire partie d'un classement.
-- Ce classement affichera les membres les plus 
 
-- un système de niveau d'activité sera mis en place.
+- Un système de classement évaluera la participation des utilisateurs.
+- Chaque membre pourra faire partie du classement.
+- Ce classement affichera les membres qui participent le plus.
 
-- RG15: Un système de récompenses sera mis en place.
-- RG15: L'utilisateur sera récompensé par un gain de point.
-- RG15: Un utilisateur sera sanctionné par un retrait de point.
+### Type de récompense
+#### Premier type de récompense
+- L'utilisateur gagnera des points en postant une ressource.
+- Si un signalement abouti à une suppression de ressources, l'utilisateur gagnera des points.
+- Plus il y a de membres qui signalent une ressources, plus y il y a de point à gagner.
+- Les membres ayant participé à de faux signalements, subiront un retrait de points.
+- L'utilisateur sera récompensé par un gain de point.
+- Un utilisateur sera sanctionné par un retrait de point.
 
-~~- RG15 : Une récompense sera sous forme d'XP.~~
+- Une récompense sera sous forme d'XP.
 
 - RG16: Tous les **membres** (exceptés les nouveaux arrivants) vont recevoir une récompense pour chaque partage de ressource.
 
-- RG17 : Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugé inutile par les dislikes, alors une pénalité (retrait d'xp) sera appliquer.
+- RG17 : Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugé inutile par les dislikes, alors une pénalité (retrait d'xp) sera appliquée.
 
-- RG18 : Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugé utile par les likes, alors une récompenses (gain d'xp) sera appliquer.
+- RG18 : Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugée utile par les likes, alors une récompenses (gain d'xp) sera appliquée.
 
-- RG19: Si une ressource partagéepar un **membre** (exceptés les nouveaux arrivants) est jugé obsolétes par la communauté, alors la ressources sera supprimer.
+- RG19: Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugée obsoléte par la communauté, alors la ressources sera supprimée.
 
 ## Modération :
 ### Blacklist
@@ -121,4 +123,5 @@
 
 Voilà une liste de catégories de signalement.
 À chaque catégorie utilisée, l'utilisateur pourra ajouter un commentaire pour expliquer pourquoi il a signalé le contenu.
+
 
