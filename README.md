@@ -7,7 +7,7 @@
 
 1. [Contexte et enjeux du projet](./doc/contexte-et-enjeux/contexte-et-enjeux.md#-sommaire)
 
-2. [Gestion des rôles](./doc/gestion-des-roles/gestion-des-roles.md)
+2. [Régles de Gestions](./doc/regles-de-gestion/regles-de-gestion.md)
 
 3. [Problématiques](./doc/Problematiques/Problematiques.md)
 

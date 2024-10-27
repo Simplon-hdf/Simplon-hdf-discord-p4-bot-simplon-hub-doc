@@ -18,8 +18,8 @@
 
 ## Journalisation 
 ### Gestion des historique d’évènements .
-- Tout signalement d'une ressources sera enregistrées dans l’historique d’événements.
-- Toutes créations d'une ressources sera enregistrées dans l’historique d’événements.
+- Tout signalement d'une ressource sera enregistrées dans l’historique d’événements.
+- Toutes créations d'une ressource sera enregistrées dans l’historique d’événements.
 - Toutes modifications d'une ressources sera enregistrées dans l’historique d’événements.
 - Toutes suppressions d'une ressources sera enregistrées dans l’historique d’événements.
 - Les utilisateurs ayant like ou dislike d'une ressource signalé seront enregistrées dans l’historique d’événements.
@@ -73,31 +73,29 @@
 - Ce classement affichera les membres qui participent le plus.
 
 ### Type de récompense
-#### Premier type de récompense
 - L'utilisateur gagnera des points en postant une ressource.
 - Si un signalement abouti à une suppression de ressources, l'utilisateur gagnera des points.
-- Plus il y a de membres qui signalent une ressources, plus y il y a de point à gagner.
+- Plus il y a de membres qui signalent des ressources, plus il y a de point à gagner.
 - Les membres ayant participé à de faux signalements, subiront un retrait de points.
-- L'utilisateur sera récompensé par un gain de point.
-- Un utilisateur sera sanctionné par un retrait de point.
+- L'utilisateur qui recevra des likes sera récompensé par un gain de point.
+- Un utilisateur qui recevra des dislikes sera sanctionné par un retrait de point.
+### Classement 
+- Pour monter de niveau, l'utilisateur pourra investir les points cumulés.
+- Quand l'utilisateur aura assez de point pour monter en niveau, une notification sera envoyée.
+- Un classement dès plus participatif sera afficher.
+- Un grade spécial sera affecter tous les 10 niveaux.
+- Chaque grade aura une couleur unique.
+- Tous les trois mois, le classement prendra fin.
+- Les trois plus participatif auront des badges éphémères.
 
-- Une récompense sera sous forme d'XP.
-
-- RG16: Tous les **membres** (exceptés les nouveaux arrivants) vont recevoir une récompense pour chaque partage de ressource.
-
-- RG17 : Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugé inutile par les dislikes, alors une pénalité (retrait d'xp) sera appliquée.
-
-- RG18 : Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugée utile par les likes, alors une récompenses (gain d'xp) sera appliquée.
-
-- RG19: Si une ressource partagée par un **membre** (exceptés les nouveaux arrivants) est jugée obsoléte par la communauté, alors la ressources sera supprimée.
 
 ## Modération :
 ### Blacklist
 - Une liste noire est mise en place.
-- La liste noire contiendra des liens et des mots-clés interdit.
+- La liste noire contiendra des liens et des mots-clés interdits.
 - La liste noire empêchera la soumission de ressources interdite.
-- À chaque création d'un post, celui-ci sera comparé avec la liste noir.
-- À chaque modifications d'un post, celui-ci sera comparé avec la liste noir.
+- À chaque création d'un post, celui-ci sera comparé avec la liste noire.
+- À chaque modification d'un post, celui-ci sera comparé avec la liste noire.
 
 ## Signalement
 
@@ -116,12 +114,4 @@
 - Pour la catégorie de signalement **Spam**, un message sera envoyé au modérateur au bout de 10 signalementS
 - Pour la catégorie de signalement **Offensant / Harcèlement ou menace**, un message sera envoyé au modérateur au bout de 5 signalements
 - Pour la catégorie de signalement **Autres**, un message sera envoyé au modérateur au bout de 7 signalements
-
-
-
-## Catégories liées à un signalement de contenu
-
-Voilà une liste de catégories de signalement.
-À chaque catégorie utilisée, l'utilisateur pourra ajouter un commentaire pour expliquer pourquoi il a signalé le contenu.
-
 
