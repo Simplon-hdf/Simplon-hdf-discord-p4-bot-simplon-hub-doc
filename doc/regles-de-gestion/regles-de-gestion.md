@@ -1,5 +1,3 @@
-Bien sûr ! J'ai mis à jour le document en conservant uniquement les règles de perte d'XP que vous avez spécifiées. J'ai ajusté la numérotation pour qu'elle soit cohérente et ai inclus les règles dans les sections appropriées. Voici le document mis à jour :
-
 ---
 
 # Règles de Gestion de SimplonCommunity 📋
