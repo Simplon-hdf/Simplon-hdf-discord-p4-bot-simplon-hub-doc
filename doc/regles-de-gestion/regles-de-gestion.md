@@ -1,4 +1,3 @@
----
 
 
 # Règles de Gestion de SimplonCommunity 📋
