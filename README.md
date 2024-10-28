@@ -7,11 +7,15 @@
 
 1. [Contexte et enjeux du projet](./doc/contexte-et-enjeux/contexte-et-enjeux.md#-sommaire)
 
-2. [Gestion des rôles](./doc/gestion-des-roles/gestion-des-roles.md)
+2. [Règles de gestion](./doc/regles-de-gestion/regles-de-gestion.md)
 
 3. [Problématiques](./doc/Problematiques/Problematiques.md)
 
 4. [RBAC](./doc/RBAC/RBAC.md)
+
+5. [Exigences fonctionnelles](./doc/exigences/exigences.md)
+
+6. [User Stories](./doc/UserStory/UserStory.md)
 
   
 
